@@ -95,3 +95,5 @@ while (userNumTwo != myNumTwo) {
 
 alert("Well done! You guessed the correct number!!");
 alert("Thanks for stopping by, " + userName + ", and thanks for playing. Goodbye!");
+
+// Reviewed by Kate - pair programming practice for forking
